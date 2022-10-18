@@ -39,6 +39,10 @@ li:hover {
     display: inline-block;
 }
 
+main {
+    height: 70vh;
+}
+
 footer {
     width: 100vw;
     display: flex;

@@ -1,0 +1,39 @@
+main {
+    height: 70vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+.formulario {
+    display: flex;
+    margin-left: 15vw;
+}
+
+label {
+    display: block;
+    margin-bottom: 6px;
+    margin-top: 20px;
+}
+
+
+input {
+    border-style: solid;
+    border-width: 1px;
+    padding: 0.5vh;
+    width: 40vw;
+    border-color: gray;
+}
+
+#email,
+#contato {
+    font-size: x-small;
+    padding: 1vh;
+    width: 39vw;
+}
+
+#mensagem {
+    height: 15vh;
+}
+
+.checkbox {
+    width: 1.2vh;
+}
